@@ -20,9 +20,9 @@ export default function Choice() {
                 alignItems: 'center',
             }}
         >
-            <div className="grid grid-cols-2 gap-10">
+            <div className="grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-10">
                 <div
-                    className="max-w-sm m-8 bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
+                    className="max-w-sm mb-10 sm:m-2 lg:m-8 md:m-8 bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
                     {/*<a href="#">*/}
                     {/*    <img className="rounded-t-lg max-h-50" src="https://source.unsplash.com/random?wallpapers"*/}
                     {/*         alt=""/>*/}
@@ -60,7 +60,7 @@ export default function Choice() {
                 </div>
 
                 <div
-                    className="max-w-sm m-8 bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
+                    className="max-w-sm sm:m-2 lg:m-8 md:m-8 bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
                     {/*<a href="#">*/}
                     {/*    <img className="rounded-t-lg max-h-50" src="https://source.unsplash.com/random?wallpapers"*/}
                     {/*         alt=""/>*/}

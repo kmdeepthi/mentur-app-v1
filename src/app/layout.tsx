@@ -37,7 +37,7 @@ export default async function RootLayout({
                     <Logout/>
                 )}
             </header>
-            <div id='content'>
+            <div id='content' className='m-10'>
                 {!session ? (
                     <Choice/>
                 ) : (
