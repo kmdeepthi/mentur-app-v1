@@ -2,7 +2,7 @@ import * as React from 'react';
 import Container from '@mui/material/Container';
 import Typography from '@mui/material/Typography';
 import Box from '@mui/material/Box';
-import Link from '../src/app/components/Link';
+import Link from 'next/link';
 import ProTip from '@/app/components/ProTip';
 
 export default function Learnmorementors() {
@@ -39,7 +39,7 @@ export default function Learnmorementors() {
                     <br/>
                 </Typography>
                 <Box maxWidth="sm" sx={{mt: 10}}>
-                    <Link noLinkStyle href="/">
+                    <Link href="/">
                         Go to the home page
                     </Link>
                 </Box>
