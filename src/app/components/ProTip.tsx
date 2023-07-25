@@ -15,7 +15,7 @@ export default function ProTip() {
     return (
         <Typography sx={{ mt: 6, mb: 3 }} color="text.secondary">
             <LightBulbIcon sx={{ mr: 1, verticalAlign: 'middle' }} />
-            Read more about the MenTur Program <Link href="/faqs">through the FAQ's here</Link>
+            Read more about the MenTur Program <Link href="/faqs">through the FAQs here</Link>
         </Typography>
     );
 }

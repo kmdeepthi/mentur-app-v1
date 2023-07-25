@@ -22,7 +22,7 @@ export default function Faqs() {
                 </Typography>
                 <Typography variant={"body1"} component="p" gutterBottom sx={{my: 10}}>
                     <b>1. What is the mentorship program all about?</b><br/>
-                    Our mentorship program is designed to foster meaningful connections between experienced professionals (Mentors) and individuals seeking guidance and support (Mentees). It's a platform for sharing knowledge, insights, and experiences to empower mentees in their personal and professional development journey.
+                    Our mentorship program is designed to foster meaningful connections between experienced professionals (Mentors) and individuals seeking guidance and support (Mentees). It&apos;s a platform for sharing knowledge, insights, and experiences to empower mentees in their personal and professional development journey.
                     <br/>
                     <br/>
                     <b>2. How does the mentorship matching process work?</b><br/>
@@ -30,15 +30,15 @@ export default function Faqs() {
                     <br/>
                     <br/>
                     <b>3. What are the benefits of being a Mentor?</b><br/>
-                    As a Mentor, you get the opportunity to make a lasting impact on someone's life and career. It's a chance to give back to the community, enhance your leadership and communication skills, expand your professional network, and gain recognition as an industry expert.
+                    As a Mentor, you get the opportunity to make a lasting impact on someone&apos;s life and career. It&apos;s a chance to give back to the community, enhance your leadership and communication skills, expand your professional network, and gain recognition as an industry expert.
                     <br/>
                     <br/>
-                    <b>4. What's in it for Mentees?</b><br/>
+                    <b>4. What&apos;s in it for Mentees?</b><br/>
                     Mentees gain access to valuable insights, personalized guidance, and a supportive network. They can learn from experienced professionals, develop new skills, gain confidence, and receive direction to overcome challenges and achieve their goals.
                     <br/>
                     <br/>
                     <b>5. How often are mentoring sessions held?</b><br/>
-                    The frequency and schedule of mentoring sessions are flexible and depend on mutual agreement between mentors and mentees. We recommend having regular check-ins, but the specific cadence is determined by both parties' availability and preferences.
+                    The frequency and schedule of mentoring sessions are flexible and depend on mutual agreement between mentors and mentees. We recommend having regular check-ins, but the specific cadence is determined by both parties&apos; availability and preferences.
                     <br/>
                     <br/>
                     <b>6. Can I participate in the program if I am a remote employee?</b><br/>
@@ -49,8 +49,8 @@ export default function Faqs() {
                     While there is no strict time limit, we encourage mentors and mentees to commit to the program for a reasonable duration (e.g., 6 to 12 months). This allows for a comprehensive and transformative mentoring experience.
                     <br/>
                     <br/>
-                    <b>8. What if I'm not satisfied with my mentoring match?</b><br/>
-                    If for any reason a mentor or mentee feels their match isn't the right fit, we offer the opportunity to request a re-match. We value the success of our mentorship connections and aim to find the best possible fit for both parties.
+                    <b>8. What if I&apos;m not satisfied with my mentoring match?</b><br/>
+                    If for any reason a mentor or mentee feels their match isn&apos;t the right fit, we offer the opportunity to request a re-match. We value the success of our mentorship connections and aim to find the best possible fit for both parties.
                     <br/>
                     <br/>
                     <b>9. Are there any guidelines for mentors and mentees?</b><br/>
@@ -58,7 +58,7 @@ export default function Faqs() {
                     <br/>
                     <br/>
                     <b>10. How do I sign up for the mentorship program?</b><br/>
-                    To join our mentorship program as either a Mentor or a Mentee, simply visit our website's registration page and fill out the application form. We'll guide you through the process from there!
+                    To join our mentorship program as either a Mentor or a Mentee, simply visit our website&apos;s registration page and fill out the application form. We&apos;ll guide you through the process from there!
                     <br/>
                     <br/>
                     If you have any additional questions or need further assistance, feel free to reach out to our support team at #slack-channel-TBD.

@@ -1,12 +1,6 @@
 'use client';
 
-import {Box, Card, Grid} from "@mui/material";
-import CardMedia from "@mui/material/CardMedia";
-import CardContent from "@mui/material/CardContent";
-import Typography from "@mui/material/Typography";
-import CardActions from "@mui/material/CardActions";
-import Button from "@mui/material/Button";
-import Link from "@mui/material/Link";
+import {Box} from "@mui/material";
 import {signIn} from "next-auth/react";
 import ProTip from "@/app/components/ProTip";
 import MentorIcon from "@/app/icons/icons-coach.svg";

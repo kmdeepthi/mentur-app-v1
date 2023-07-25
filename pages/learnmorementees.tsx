@@ -35,7 +35,7 @@ export default function Learnmorementees() {
                     Skill Development: Acquire new skills and expertise through mentorship.<br/>
                     <br/>
                     <br/>
-                    Don't miss out on this chance to supercharge your growth and unlock your full potential. Become a Mentee and embark on an empowering journey toward success.
+                    Don&apos;t miss out on this chance to supercharge your growth and unlock your full potential. Become a Mentee and embark on an empowering journey toward success.
                     <br/>
                 </Typography>
                 <Box maxWidth="sm" sx={{mt: 10}}>

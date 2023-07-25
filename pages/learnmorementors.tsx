@@ -21,14 +21,14 @@ export default function Learnmorementors() {
                     Learn More - Mentors
                 </Typography>
                 <Typography variant={"body1"} component="p" gutterBottom sx={{my: 10}}>
-                    Are you passionate about sharing your expertise and helping others succeed? As a Mentor in our program, you'll have the opportunity to make a meaningful impact on the careers of aspiring professionals. Whether you're a seasoned veteran or a rising star in your field, your guidance and support can shape the next generation of leaders.
+                    Are you passionate about sharing your expertise and helping others succeed? As a Mentor in our program, you will have the opportunity to make a meaningful impact on the careers of aspiring professionals. Whether you are a seasoned veteran or a rising star in your field, your guidance and support can shape the next generation of leaders.
                     <br/>
                     <br/>
                     <br/>
-                    What's in it for you as a Mentor?
+                    What is in it for you as a Mentor?
                     <br/>
                     <br/>
-                    Fulfillment: Experience the satisfaction of contributing to someone else's growth and development.<br/>
+                    Fulfillment: Experience the satisfaction of contributing to someone else&apos;s growth and development.<br/>
                     Networking: Expand your professional network and connect with other like-minded mentors.<br/>
                     Personal Growth: Strengthen your leadership and communication skills through mentorship.<br/>
                     Recognition: Gain recognition as an industry expert and thought leader.<br/>
