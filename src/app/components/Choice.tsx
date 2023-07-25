@@ -6,6 +6,7 @@ import ProTip from "@/app/components/ProTip";
 import MentorIcon from "@/app/icons/icons-coach.svg";
 import MenteeIcon from "@/app/icons/icons-player.svg";
 import Image from "next/image";
+import Link from "next/link";
 
 
 export default function Choice() {
@@ -50,10 +51,10 @@ export default function Choice() {
                                 </svg>
                             </button>
 
-                            <a href="/learnmorementors"
+                            <Link href="/learnmorementors"
                                className="py-2 px-3 text-sm font-medium text-gray-900 focus:outline-none bg-white rounded-lg border border-gray-200 hover:bg-gray-100 hover:text-blue-700 focus:z-10 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-700 dark:bg-gray-800 dark:text-gray-400 dark:border-gray-600 dark:hover:text-white dark:hover:bg-gray-700">
                                 Learn More
-                            </a>
+                            </Link>
                         </div>
                     </div>
                 </div>
@@ -87,10 +88,10 @@ export default function Choice() {
                             </button>
 
 
-                            <a href="/learnmorementees"
+                            <Link href="/learnmorementees"
                                className="py-2 px-3 text-sm font-medium text-gray-900 focus:outline-none bg-white rounded-lg border border-gray-200 hover:bg-gray-100 hover:text-blue-700 focus:z-10 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-700 dark:bg-gray-800 dark:text-gray-400 dark:border-gray-600 dark:hover:text-white dark:hover:bg-gray-700">
                                 Learn More
-                            </a>
+                            </Link>
                         </div>
                     </div>
                 </div>
